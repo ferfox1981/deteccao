@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+ENV/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Others
+*.log
+*.tmp
