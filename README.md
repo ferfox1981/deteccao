@@ -19,3 +19,6 @@
 
 - Importar a biblioteca Numpy
 `pip install numpy`
+
+- Based on this (course)[https://www.youtube.com/watch?v=oXlwWbU8l2o]
+
